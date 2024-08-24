@@ -2,7 +2,7 @@
 
 🚀 Habilidades: HTML, CSS, JavaScript, Node.js
 
-🌟 Projetos: Meu Primeiro Projeto Backend, Outro Projeto Legal
+🌟 Projetos: Meu Primeiro Projeto Backend, Outro Projeto Legal - só no papel ainda - in progress...
 
 🎯 Objetivos: Aprender mais sobre frameworks e tecnologias de backend como Express e contribuir para projetos open source.
 
